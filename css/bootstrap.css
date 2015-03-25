@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=567a27b8e07d59cb7bee)
- * Config saved to config.json and https://gist.github.com/567a27b8e07d59cb7bee
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=fa33fee6fd5b5641c022)
+ * Config saved to config.json and https://gist.github.com/fa33fee6fd5b5641c022
  */
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
@@ -1086,7 +1086,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
-  font-family: "Open Sans", sans-serif, Arial;
+  font-family: "Lato", sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #444444;
@@ -1188,7 +1188,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Droid Serif", Georgia, serif;
+  font-family: "Lato", sans-serif;
   font-weight: 500;
   line-height: 1.1;
   color: #25551b;
@@ -4074,7 +4074,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 @media (min-width: 768px) {
   .navbar {
-    border-radius: 4px;
+    border-radius: 0;
   }
 }
 @media (min-width: 768px) {
@@ -4355,8 +4355,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-fixed-bottom .navbar-nav > li > .dropdown-menu {
   margin-bottom: 0;
-  border-top-right-radius: 4px;
-  border-top-left-radius: 4px;
+  border-top-right-radius: 0;
+  border-top-left-radius: 0;
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
 }
@@ -4396,8 +4396,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-  background-color: rgba(12, 67, 1, 0.8);
-  border-color: rgba(6, 34, 1, 0.8);
+  background-color: #5c8021;
+  border-color: #49661a;
 }
 .navbar-default .navbar-brand {
   color: #ffffff;
@@ -4415,14 +4415,14 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #984907;
-  background-color: #ffffff;
+  color: #ffffff;
+  background-color: #25551b;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #984907;
-  background-color: #ffffff;
+  color: #ffffff;
+  background-color: #25551b;
 }
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,
@@ -4442,13 +4442,13 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
-  border-color: rgba(6, 34, 1, 0.8);
+  border-color: #49661a;
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  background-color: #ffffff;
-  color: #984907;
+  background-color: #25551b;
+  color: #ffffff;
 }
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
@@ -4456,14 +4456,14 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-    color: #984907;
-    background-color: #ffffff;
+    color: #ffffff;
+    background-color: #25551b;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
-    color: #984907;
-    background-color: #ffffff;
+    color: #ffffff;
+    background-color: #25551b;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover,
@@ -4476,14 +4476,14 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   color: #ffffff;
 }
 .navbar-default .navbar-link:hover {
-  color: #984907;
+  color: #ffffff;
 }
 .navbar-default .btn-link {
   color: #ffffff;
 }
 .navbar-default .btn-link:hover,
 .navbar-default .btn-link:focus {
-  color: #984907;
+  color: #ffffff;
 }
 .navbar-default .btn-link[disabled]:hover,
 fieldset[disabled] .navbar-default .btn-link:hover,
@@ -5844,7 +5844,7 @@ button.close {
   position: absolute;
   z-index: 1070;
   display: block;
-  font-family: "Open Sans", sans-serif, Arial;
+  font-family: "Lato", sans-serif;
   font-size: 12px;
   font-weight: normal;
   line-height: 1.4;
@@ -5951,7 +5951,7 @@ button.close {
   display: none;
   max-width: 276px;
   padding: 1px;
-  font-family: "Open Sans", sans-serif, Arial;
+  font-family: "Lato", sans-serif;
   font-size: 14px;
   font-weight: normal;
   line-height: 1.42857143;
